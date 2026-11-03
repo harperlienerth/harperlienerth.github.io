@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-url: "https://luost26.github.io"
-baseurl: "/academic-homepage-frutiger-aero" # GitHub Pages repository subpath
+url: "https://harperlienerth.github.io"
+baseurl: "" # GitHub Pages repository subpath
 
 # Build settings
 markdown: kramdown
