@@ -1,6 +1,6 @@
-primary_name: "Your Name"
+primary_name: "Harper Lienerth"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Harper Lienerth"
 
 positions:
 - name: Title or Position
@@ -8,7 +8,7 @@ positions:
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "HL14@albion.edu"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
@@ -22,9 +22,7 @@ short_bio: >-
     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Hello! My name is Harper. I am a recent graduate of Albion College. 
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -32,16 +30,10 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+- name: AlbioniCollege
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: B.A in Mathematics, Computer Science
+  date: Aug. 2021 - May. 2025
 
 # experience:
 # - name: Peking University
