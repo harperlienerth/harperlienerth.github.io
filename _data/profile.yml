@@ -5,7 +5,7 @@ navbar_name: "Harper Lienerth"
 positions:
 - name: Teacher / Researcher
 - name: Albion College
-  # logo: /assets/images/badges/your-logo.png  # Logo is optional
+  logo: /assets/images/badges/Albion_college_seal.png
 
 email: "HL14@albion.edu"
 # cv_link: link-to-your-cv-file
@@ -27,7 +27,7 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: Albion College
-  # logo: /assets/images/badges/your-logo.png
+  logo: /assets/images/badges/Albion_college_seal.png
   position: B.A. in Mathematics, Computer Science
   date: Aug. 2021 - May 2025
 
